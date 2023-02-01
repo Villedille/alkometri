@@ -1,3 +1,14 @@
+body {
+  background-image: url(beer-3444480_1280.jpg);
+  text-align: center;
+  color:red;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style:inherit;
+}
+
+
+
 .App {
   text-align: center;
 }
